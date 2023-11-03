@@ -1,0 +1,20 @@
+
+def getoutofwork():
+    reason = input("Please type the reason why you don't wanna work today ")
+    time = (input("input the time ypour shift starts "))
+    print("sorry boss i can't go to work today because " + reason + " so i can't come today at " + time )
+
+getoutofwork()
+
+This is my project. the function will allow you to create a responce to your boss on why you can't come into work
+
+Was it easy to find your classmates assignment? Yes
+
+Was their documentation clear and concise on what their program was designed to do? Yes
+
+Was their documnetion clear and concise on how to install their program? Yes
+
+When you installed and ran your classmates program, did it work as described? Yes
+
+Based on your experience using your classmate's program, as well as what you've learned about programming and documentation, 
+are there any reccomendations that you would provide to your classmate? NO

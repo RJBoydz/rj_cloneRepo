@@ -1,19 +1,10 @@
 def fun():
-    sports = input('do you like basketball or football')
-    if sports == 'basketball':
-        print('NIce a like being that court' + input(bool('do you play')))
-        if sports == True:
-            print('great maybe we can play together?')
-            if sports == False:
-                print('Well you should try to play it is very fun')
-            elif sports == ' football':
-                print('nice I love running on that field'+ input(bool('do you play')))
-                if sports == True:
-                    print('great maybe we can play together')
-                    if sports == False:
-                        print('Well you should try to play it is very fun')
-                    else:
-                        print('Do not understnad your answer?')
+    sports = input('do you like basketball')
+    if sports == 'Yes': True
+    print('NIce a like being that court')
+    if sports == 'No': False
+    print('Ok well you should play it sometime, its really fun')
+
 fun()    
 
 # read.me document is code uses the def function to rap it up, input to answer question, if so the comput give you an answer, elif to make 
